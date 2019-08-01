@@ -1,4 +1,4 @@
-This is a code challenge project given by Service Partner One GmbH
+This is a calender application with event creation, updation and deletion features. 
 To view the output, follow the steps as given below:
 1) In the console, navigate to the project folder.
 2) Run command "npm install". This will install all the dependencies and creates a node-modules folder.
