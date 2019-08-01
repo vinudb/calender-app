@@ -1,0 +1,47 @@
+.select {
+    border: 1px solid #007eff;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: 300;
+    width: 100%;
+    margin-top: $s-size;
+    background-color: white;
+    height: $l-size;
+  }
+  
+  .select *{
+    border-radius:15px;
+    width: 10%;
+  }
+  
+  .text-input {
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 100%;
+    margin: 20px auto 10px auto;
+    padding: 15px 0 15px 10px;
+    font-size: $m-size;
+  }
+  
+  .button {
+    background: #29292b;
+    border: 1px solid white;
+    color: white;
+    display: inline-block;
+    font-size: $s-size;
+    font-weight: 300;
+    line-height: 1;
+    padding: 0.5rem 0rem;
+    text-decoration: none;
+    border-radius: 2.2rem;
+    width: 35%;
+  }
+
+  .saveButton{
+    margin: $s-size 0;
+    width: 100%;
+    background: darkorange;
+  }
+
+  
+  

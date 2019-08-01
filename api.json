@@ -1,0 +1,95 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "date": "23",
+      "month": "07",
+      "year": "2019",
+      "time": "21:00",
+      "description": "Testing",
+      "color": "Red"
+    },
+    {
+      "id": 2,
+      "date": "24",
+      "month": "07",
+      "year": "2019",
+      "time": "02:15",
+      "description": "Testing again",
+      "color": "Green"
+    },
+    {
+      "id": 3,
+      "date": "24",
+      "month": "07",
+      "year": "2019",
+      "time": "9:30",
+      "description": "Testing Again & again",
+      "color": "Red"
+    },
+    {
+      "id": 4,
+      "date": "01",
+      "month": "08",
+      "year": "2019",
+      "time": "9:00",
+      "desc": "Coffee",
+      "color": "Green",
+      "description": "Event two"
+    },
+    {
+      "id": 0.9073510105269647,
+      "date": "24",
+      "month": "07",
+      "year": "2019",
+      "time": "01:00",
+      "description": "sleep",
+      "color": "Darkcyan"
+    },
+    {
+      "id": 0.23353445415318408,
+      "date": "24",
+      "month": "07",
+      "year": "2019",
+      "time": "05:20",
+      "description": "eat",
+      "color": "Brown"
+    },
+    {
+      "id": 0.8003446093878088,
+      "date": "01",
+      "month": "08",
+      "year": "2019",
+      "time": "00:00",
+      "description": "Event one",
+      "color": "Darkcyan"
+    },
+    {
+      "id": 0.5534727986518473,
+      "date": "08",
+      "month": "08",
+      "year": "2019",
+      "time": "00:00",
+      "description": "Interview",
+      "color": "Green"
+    },
+    {
+      "id": 0.5496595286653594,
+      "date": "08",
+      "month": "08",
+      "year": "2019",
+      "time": "00:00",
+      "description": "Test",
+      "color": "Darkcyan"
+    },
+    {
+      "id": 0.4056806951020633,
+      "date": "08",
+      "month": "08",
+      "year": "2019",
+      "time": "17:45",
+      "description": "Coding",
+      "color": "Brown"
+    }
+  ]
+}

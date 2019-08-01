@@ -1,0 +1,91 @@
+.content-container {
+    margin: 0 auto;
+    padding: 0 1.6rem;
+    max-width: 80rem; 
+    @media (min-width: 45rem) {
+          padding: 1.5rem 20rem;
+    }
+  }
+  
+.listItem{
+    border-radius: 5px;
+    padding: 0.7rem;
+    margin-bottom: 10px;
+    background-color: #2f4f4fed;
+    color: white;
+}
+
+.flexJustifySpaceBtw{
+  display: flex;
+  justify-content: space-between;
+}
+
+.eventItemHeader{
+  font-size: $m-size;
+  font-weight: bolder;
+}
+ 
+.eventListFooterBtns{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  @media (min-width: $desktop-breakpoint) {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+.eventEditTimeSelect{
+  display: flex;
+  justify-content: space-between;
+}
+
+.App {
+  text-align: center;
+}
+
+.calenderCellEvents{
+  display: flex;
+  flex-direction: column;
+  float: left;
+  font-size: x-small;
+  padding: 1.5rem 0.3rem 0 0.3rem;
+  width: 100%;
+}
+
+.cellEventSpan{
+  text-align: left;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  display: block;
+  width: 95px;
+}
+
+.hideForMobile{
+  display: none;
+  @media (min-width: $desktop-breakpoint) {
+    display: inline-block;
+  }
+}
+
+.hideForDesktop{
+  display: inline-block;
+  
+  @media (min-width: $desktop-breakpoint) {
+    display: none;
+  }
+}
+
+.cellEventBackground{
+    font-size: 0.7rem;
+    padding: 0;
+    margin: 0;
+    color: white;
+    font-weight: bold;
+    border-radius: 3px;
+    margin-right: 32px;
+    width: 100%;
+    margin-bottom: 2px;
+}
