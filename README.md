@@ -5,7 +5,8 @@ To view the output, follow the steps as given below:
 1) In the console, navigate to the project folder.
 2) Run command "npm install". This will install all the dependencies and creates a node-modules folder.
    This process takes around 5-8 mins to complete.
-3) Run command "npm start". Runs the app in the development mode.
+3) Run command "npm run startServer". This will initialize json-server. URL to view the json data is "http://localhost:3010"
+4) Run command "npm start". Runs the app in the development mode.
    Open [http://localhost:3000] to view it in the browser.
 
 Features:
