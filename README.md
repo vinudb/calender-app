@@ -1,5 +1,4 @@
 This is a calender application with event creation, updation and deletion features. 
-LIVE IMPLEMENTATION: https://calender-events-app.herokuapp.com/
 
 To view the output, follow the steps as given below:
 1) In the console, navigate to the project folder.
